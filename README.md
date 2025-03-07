@@ -68,7 +68,7 @@ Ensure your keys are correctly set in the script before running.
 ![img](https://i.ibb.co/3m7XGgFQ/Screenshot-2025-03-07-185532.png)
 
 
-![gui Image](path/to/gui.png)
+![gui Image](gui.png)
 
 
 ## License
