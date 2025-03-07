@@ -65,7 +65,7 @@ Ensure your keys are correctly set in the script before running.
 
 ## Screenshot
 
-![img](https://ibb.co/RT9nZR6d)
+![img]("https://i.ibb.co/3m7XGgFQ/Screenshot-2025-03-07-185532.png")
 
 
 ## License
