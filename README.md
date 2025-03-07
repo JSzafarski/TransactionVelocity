@@ -63,9 +63,12 @@ Ensure your keys are correctly set in the script before running.
 - A high TPM without price changes may indicate wash trading or bot activity.
 - Use insights from this tool alongside other market research for informed decisions.
 
-## Screenshot
+## Screenshots
 
 ![img](https://i.ibb.co/3m7XGgFQ/Screenshot-2025-03-07-185532.png)
+
+
+![gui Image](path/to/gui.png)
 
 
 ## License
