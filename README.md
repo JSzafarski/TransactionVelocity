@@ -67,6 +67,8 @@ Ensure your keys are correctly set in the script before running.
 
 ![img](https://i.ibb.co/3m7XGgFQ/Screenshot-2025-03-07-185532.png)
 
+![img](SC2.png)
+
 
 ![gui Image](gui.png)
 
